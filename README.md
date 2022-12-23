@@ -3,7 +3,7 @@ The goal of this project is to combine the historical bike usage patterns with t
 Exploratory Data Analysis is done on the dataset and compare the target variable with the other variables to find the distribution of graph. We look for null values which were not found and outliers and appropriately modify them by z-score. We also perform correlation analysis to extract out the important and relevant feature from dataset and later perform train test split to train the model.
 The main objective is to build a predictive model, which could help to train a model to predict the number of bike rentals of the year given the weather conditions.  This would in turn help to predicting quickly and efficiently.
 
-#1.	Problem statement :
+# 1.	Problem statement :
 
 The main objective is to build a predictive model, which could help to train a model to predict the number of bike rentals of the year given the weather conditions.  This would in turn help to predicting quickly and efficiently.
 The dataset contain following columns : 
